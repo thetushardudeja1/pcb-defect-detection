@@ -249,7 +249,7 @@ visualize_grad_cam(model, test_image, device, class_names=['Open', 'Short', 'Cra
 ## Author
 
 **Tushar Dudeja**  
-Master's Student | Computer Vision & Deep Learning Researcher
+Bachelor's Student | Computer Vision & Deep Learning Researcher
 
 ---
 
